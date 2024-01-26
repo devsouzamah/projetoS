@@ -1,0 +1,42 @@
+div {
+
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    margin: -2px;
+    position: relative;
+    left: 50px;
+    right: 50px;
+    
+    
+}
+
+body {
+    height: 100vh;
+}
+
+* {
+    background-color: rgb(218, 238, 231);
+
+}
+
+.azul {
+    background-color: blue;
+}
+
+.vermelho {
+    background: #ff0000;    
+}
+
+.verde {
+    background: rgb(0,255,0);
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+#borda {
+   border: 3px solid black;
+}
