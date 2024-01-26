@@ -1,0 +1,41 @@
+*{
+    background-color: coral;
+}
+
+div{ display: inline-block;
+    border: 1px solid white;
+    width: 130px;
+    height: 130px;
+    margin: -2px;
+
+}   
+
+.seção{       
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.Vermelho{
+    
+    background-color: red;
+   
+}
+.Azul{
+    background-color: blue;
+   
+}
+.Verde{
+    
+    background-color: green;
+ 
+}
+.Amarelo{
+  
+    background-color: yellow;
+    
+}
+
+#borda{
+    border: 1.0px solid black;
+}
