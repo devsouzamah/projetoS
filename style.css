@@ -1,19 +1,22 @@
 *{
-    background-color: coral;
+    background-color:bisque;
 }
 
-div{ display: inline-block;
+div{ 
+    
+    display: inline-block;
     border: 1px solid white;
     width: 130px;
     height: 130px;
     margin: -2px;
+    
 
 }   
 
 .seção{       
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .Vermelho{
@@ -21,15 +24,18 @@ div{ display: inline-block;
     background-color: red;
    
 }
+
 .Azul{
     background-color: blue;
    
 }
+
 .Verde{
     
     background-color: green;
  
 }
+
 .Amarelo{
   
     background-color: yellow;
@@ -37,5 +43,5 @@ div{ display: inline-block;
 }
 
 #borda{
-    border: 1.0px solid black;
+    border: 1px solid black;
 }
